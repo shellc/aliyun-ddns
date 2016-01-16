@@ -10,3 +10,8 @@ A DDNS tool for domain hosted on Aliyun.com/Net.CN
 #### Configuration
 * Change access key id/secure you got from https://ak-console.aliyun.com/#/accesskey
 * Change domain and record you want to create/update.
+
+#### Requires
+* pip install dnspython
+* pip install aliyun-python-sdk-core
+
